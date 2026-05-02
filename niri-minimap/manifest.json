@@ -1,0 +1,19 @@
+{
+  "id": "niri-minimap",
+  "name": "Niri Minimap",
+  "version": "0.1.0",
+  "minNoctaliaVersion": "4.0.0",
+  "author": "samuel.tribehou",
+  "license": "MIT",
+  "description": "Shows arrows indicating whether the current niri workspace has windows to the left or right of the focused column.",
+  "tags": [
+    "Bar",
+    "Niri"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "dependencies": {
+    "plugins": []
+  }
+}
